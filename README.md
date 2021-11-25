@@ -20,3 +20,4 @@ Gao, S., Rao, J., Kang, Y., Liang, Y., & Kruse, J. (2020). [Mapping county-level
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Tracking Mobility Changes Interactive Web Portal: [https://geods.geography.wisc.edu/covid19/physical-distancing](https://geods.geography.wisc.edu/covid19/physical-distancing/)
