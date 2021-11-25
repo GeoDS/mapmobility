@@ -24,5 +24,5 @@ Tracking Mobility Changes Interactive Web Portal: [https://geods.geography.wisc.
 
 ## Data Sources:
 Median Travel Distance Index: [https://github.com/descarteslabs/DL-COVID-19](https://github.com/descarteslabs/DL-COVID-19) 
-```
+
 Median Stay-At-Home (Dwelling) Time: [Safegraph Social Distancing Metrics](https://docs.safegraph.com/docs/social-distancing-metrics)
