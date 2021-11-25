@@ -23,5 +23,6 @@ Gao, S., Rao, J., Kang, Y., Liang, Y., & Kruse, J. (2020). [Mapping county-level
 Tracking Mobility Changes Interactive Web Portal: [https://geods.geography.wisc.edu/covid19/physical-distancing](https://geods.geography.wisc.edu/covid19/physical-distancing/)
 
 ## Data Sources:
-Median Travel Distance Index: [https://github.com/descarteslabs/DL-COVID-19](https://github.com/descarteslabs/DL-COVID-19)
+Median Travel Distance Index: [https://github.com/descarteslabs/DL-COVID-19](https://github.com/descarteslabs/DL-COVID-19) 
+```
 Median Stay-At-Home (Dwelling) Time: [Safegraph Social Distancing Metrics](https://docs.safegraph.com/docs/social-distancing-metrics)
